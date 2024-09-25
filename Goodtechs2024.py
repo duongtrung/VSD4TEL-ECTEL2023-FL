@@ -14,7 +14,7 @@ Image.MAX_IMAGE_PIXELS = 250000000
 from pathlib import Path
 # Setup path to data folder
 data_path = Path("C:/")
-image_path = data_path / "VSD4TEL-dataset"
+image_path = data_path / "FL-dataset"
 
 # Setup train and testing paths
 train_dir = image_path
